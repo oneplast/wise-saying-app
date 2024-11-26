@@ -9,6 +9,7 @@ public interface WiseSayingService {
     public WiseSaying getWiseSaying(int idx);
     public void delete(int idx);
     public void update(int idx, String msg, String author);
+    public void build();
 
     public int getLastIdx();
 }

@@ -1,9 +1,10 @@
 .gradle
+db
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-InCourse/
+/src/main/java/org/example/Incourse
 /src/main/java/org/example/myProject/Study.java
 
 ### IntelliJ IDEA ###
